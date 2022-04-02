@@ -1,5 +1,3 @@
-module test_serial
+module bytes_eater
 
-go 1.16
-
-require go.bug.st/serial v1.3.5
+go 1.18
